@@ -1,3 +1,8 @@
 def square_array(array)
-  # your code here
+  
+  while numbers = [1, 2, 3] do
+  puts pets[counter]
+  counter += 1
+  end
+
 end
