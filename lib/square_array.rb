@@ -8,5 +8,3 @@ def square_array(array)
     
   end
 end
-
-puts new_array
